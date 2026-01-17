@@ -1,14 +1,14 @@
 {
-  "LOCALE": "en",
+  "LOCALE": "zh",
   "APP_TITLE": "HTTP Cats",
-  "USAGE_TITLE": "Usage",
-  "USAGE_PARAM": "status_code",
-  "USAGE_NOTE_LABEL": "Note",
-  "USAGE_NOTE_TEXT": "If you need an extension at the end of the URL just add",
-  "LANGUAGE_LINK_TEXT": "Versió Català",
-  "DEVELOPED_BY": "Developed by",
-  "IMAGES_BY": "Original Images by",
-  "COPIED": "Copied!",
-  "COPY_TO_CLIPBOARD": "Copy to clipboard",
-  "BACK_TO_HOME": "Back to home"
+  "USAGE_TITLE": "使用方式",
+  "USAGE_PARAM": "状态码",
+  "USAGE_NOTE_LABEL": "备注",
+  "USAGE_NOTE_TEXT": "如需在 URL 末尾添加扩展名，请直接附加",
+  "LANGUAGE_LINK_TEXT": "Català 版本",
+  "DEVELOPED_BY": "开发人员",
+  "IMAGES_BY": "原始图片 By",
+  "COPIED": "已复制！",
+  "COPY_TO_CLIPBOARD": "复制到剪贴板",
+  "BACK_TO_HOME": "返回首页"
 }
